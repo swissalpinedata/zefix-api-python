@@ -123,6 +123,10 @@ On Apify you can save this input as a task, run it on a schedule (for example ev
 * [flatfox-api-python](https://github.com/swissalpinedata/flatfox-api-python): Flatfox API
 * [personio-jobs-api](https://github.com/swissalpinedata/personio-jobs-api): Personio, Workable, Recruitee, SmartRecruiters and Teamtailor jobs API in Python and Node
 
+## No code: n8n and Make
+
+Ready to import n8n workflows and Make guides for these actors: [n8n-swiss-data-templates](https://github.com/swissalpinedata/n8n-swiss-data-templates).
+
 ## License
 
 The example code in this repo is MIT licensed. The data comes from public sources; you are responsible for using it in line with the GDPR and the terms of the source sites.
